@@ -113,10 +113,10 @@ const RESOURCES = {
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "icons/Icon-192.png": "e9496214e3d35ee15dc86f0644235843",
 "icons/Icon-512.png": "c63a380942b450a7975729a6b563fa82",
-"index.html": "4f4a34f74cb9c3fe34ecd9f3cd8033bc",
-"/": "4f4a34f74cb9c3fe34ecd9f3cd8033bc",
+"index.html": "5e080e87179ce6445372ac8157844447",
+"/": "5e080e87179ce6445372ac8157844447",
 "logo.png": "ad60f4411f08086ba341eb4a2678f228",
-"main.dart.js": "7646fd54ea0b077572543c1369df071d",
+"main.dart.js": "cd3f4abb1a7b527e5c7ba3c8da1b4ae4",
 "manifest.json": "99da374e58b3747ed8611ab092577019",
 "version.json": "90e79bd4f4ec2a07ff5deee786dcfe63"
 };
