@@ -151,10 +151,10 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/Icon-192.png": "e9496214e3d35ee15dc86f0644235843",
 "icons/Icon-512.png": "c63a380942b450a7975729a6b563fa82",
-"index.html": "c113ef2db5874ebeff3dab755a7ffa76",
-"/": "c113ef2db5874ebeff3dab755a7ffa76",
+"index.html": "a25cc386c74ec2bec6afd32462d392d9",
+"/": "a25cc386c74ec2bec6afd32462d392d9",
 "logo.png": "ad60f4411f08086ba341eb4a2678f228",
-"main.dart.js": "23fd8af245d81fce7dc0d2bc3b59e8ae",
+"main.dart.js": "09fb196e3e57ca11c109c1073115f29e",
 "manifest.json": "99da374e58b3747ed8611ab092577019",
 "version.json": "90e79bd4f4ec2a07ff5deee786dcfe63"
 };
