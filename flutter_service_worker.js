@@ -56,20 +56,11 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "icons/Icon-192.png": "e9496214e3d35ee15dc86f0644235843",
 "icons/Icon-512.png": "c63a380942b450a7975729a6b563fa82",
-"index.html": "3a6b7cbb432161c60b72707f3d66be8a",
-"/": "3a6b7cbb432161c60b72707f3d66be8a",
+"index.html": "ab3678c14b5c3c7ee15a48a57c875c0d",
+"/": "ab3678c14b5c3c7ee15a48a57c875c0d",
 "logo.png": "2e53123a8ad3bcade4761ea34b23fa29",
 "main.dart.js": "7181665ebf15c8c1bf6f98c5b12c4585",
 "manifest.json": "99da374e58b3747ed8611ab092577019",
-"splash/img/dark-1x.png": "7eebcece390d071b013404b492bb3127",
-"splash/img/dark-2x.png": "5d4bc01bc721a8714eb4c43d677d4b4b",
-"splash/img/dark-3x.png": "34e9c90b3faa521943bd28a872115667",
-"splash/img/dark-4x.png": "8fe2085b110bc604bb4dec3dc15a7f17",
-"splash/img/light-1x.png": "7eebcece390d071b013404b492bb3127",
-"splash/img/light-2x.png": "5d4bc01bc721a8714eb4c43d677d4b4b",
-"splash/img/light-3x.png": "34e9c90b3faa521943bd28a872115667",
-"splash/img/light-4x.png": "8fe2085b110bc604bb4dec3dc15a7f17",
-"splash/style.css": "64227ec06c71fef909f75868ada72c30",
 "version.json": "cf770f007ad447a7bbce1247d6a57d49"
 };
 
