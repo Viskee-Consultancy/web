@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cb6de275d784d15e8ef9af57f0433279",
+  "assets/AssetManifest.json": "a6885bf21214b37c3f0f89d1f28a63e7",
 "assets/FontManifest.json": "14daee83a296805922b95e4a1245e4b4",
 "assets/fonts/DMSans-Bold.ttf": "071853031a2175ada019db9e6fd1585c",
 "assets/fonts/DMSans-Regular.ttf": "3e7f038b85daa739336e4a3476c687f2",
@@ -36,6 +36,7 @@ const RESOURCES = {
 "assets/images/english.png": "6b380e406bbb0aa936896ccd1fcc143e",
 "assets/images/hospitality.png": "dd732133fe760393e10c86b41ac6151f",
 "assets/images/logo.png": "8585ad6b41e3d882af13a4c859e8c14c",
+"assets/images/logo_backgroud_white.png": "c8eecb98501c0296e7f57b31962b4443",
 "assets/images/reach.png": "b82d1d1137564174a079010334db95b5",
 "assets/images/reach.svg": "d88d1869d4a6118e4c4269fb046f2484",
 "assets/images/reach_landscape.png": "b0d758f3290c5c50a654231e3d70b6c3",
@@ -44,7 +45,7 @@ const RESOURCES = {
 "assets/images/VC%2520Logo%2520Portrait-01.svg": "209775e1d355ac58716439e15b685ec6",
 "assets/images/vc_logo_landscape.png": "d92115ab231bfedf7f788be47bcfff4e",
 "assets/images/vc_logo_landscape.svg": "6820d91f7a3b11c497c39895a5ef5066",
-"assets/NOTICES": "996161cb3a1330367dea1ff62e7b8948",
+"assets/NOTICES": "60e57ee7dd24980597b63863918437a7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
@@ -52,10 +53,10 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "icons/Icon-192.png": "b8c14e5831870749365b6ced192a7070",
 "icons/Icon-512.png": "8585ad6b41e3d882af13a4c859e8c14c",
-"index.html": "18c40ab77b413112fea012f61bf03056",
-"/": "18c40ab77b413112fea012f61bf03056",
+"index.html": "da82c2260a5ef05722753107603f923a",
+"/": "da82c2260a5ef05722753107603f923a",
 "logo.png": "6e96f59fe0611f70e9d51eba20d317f0",
-"main.dart.js": "7aa8d9c7bd1e3cbdc5a2decacc5ae65a",
+"main.dart.js": "9dbc532f2fc01ecda802317c928df337",
 "manifest.json": "99da374e58b3747ed8611ab092577019",
 "version.json": "cf770f007ad447a7bbce1247d6a57d49"
 };
