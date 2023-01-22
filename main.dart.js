@@ -22580,19 +22580,19 @@ aEu(a){var s=null
 if(a==="AIBT")return A.qG("images/aibt_landscape.png",s,s,s)
 else if(a==="REACH")return A.qG("images/reach_landscape.png",s,s,s)
 else return A.qG("images/avta_landscape.png",s,s,s)},
-MD(a){var s="COMMUNITY SERVICES",r="TECH SCIENCES",q="HOSPITALITY"
+MD(a){var s="BUSINESS AND TECHNOLOGY",r="COMMUNITY SERVICES",q="TECH SCIENCES",p="HOSPITALITY"
 switch(B.HK.h(0,a)){case B.v0:return"AVIATION"
 case B.v1:return"ENGLISH"
-case B.v4:return"BUSINESS AND TECHNOLOGY"
-case B.v5:return s
-case B.v6:return r
-case B.v7:return q
-case B.v8:return"BUSINESS"
-case B.v9:return s
+case B.v4:return s
+case B.v5:return r
+case B.v6:return q
+case B.v7:return p
+case B.v8:return s
+case B.v9:return r
 case B.va:return"ENGLISH"
 case B.vb:return"HORTICULTURE"
-case B.v2:return q
-case B.v3:return r}},
+case B.v2:return p
+case B.v3:return q}},
 aaJ(a){if(a==="AIBT")return B.Ar
 if(a==="REACH")return B.BL
 if(a==="AVTA")return B.BK

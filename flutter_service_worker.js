@@ -32,10 +32,10 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "icons/Icon-192.png": "b8c14e5831870749365b6ced192a7070",
 "icons/Icon-512.png": "8585ad6b41e3d882af13a4c859e8c14c",
-"index.html": "86df2fc5d73ece2163cb9ee4cbf85e4c",
-"/": "86df2fc5d73ece2163cb9ee4cbf85e4c",
+"index.html": "7b1eb043646b21897d13bab0000b4931",
+"/": "7b1eb043646b21897d13bab0000b4931",
 "logo.png": "6e96f59fe0611f70e9d51eba20d317f0",
-"main.dart.js": "86acc516a89d4019721d127561aa1ad2",
+"main.dart.js": "35f110ba84e1c5c3d5655623006b0e1b",
 "manifest.json": "8dbfa948e1c39c73bc66762a2ee70e76",
 "version.json": "cf770f007ad447a7bbce1247d6a57d49"
 };
