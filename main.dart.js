@@ -22604,7 +22604,7 @@ return B.ju},
 aEv(a){var s="https://aibtglobal.edu.au/latest-videos/"
 if(a==="AIBT")return s
 if(a==="REACH")return"https://reachcollege.edu.au/latest-videos/"
-if(a==="AVTA")return"https://avta.edu.au/about/"
+if(a==="AVTA")return"https://avta.edu.au/latest-videos/"
 return s},
 js(a){var s=0,r=A.T(t.z)
 var $async$js=A.M(function(b,c){if(b===1)return A.Q(c,r)
@@ -72853,7 +72853,7 @@ A.X_.prototype={
 $0(){var s=this.a
 if(A.a(s.c,"_course").a===B.cj)A.js("https://aibtglobal.edu.au/courses/terms-for-courses/")
 else if(A.a(s.c,"_course").a===B.ck)A.js("https://reachcollege.edu.au/course-terms/")
-else A.js("https://avta.edu.au/contact/")},
+else A.js("https://avta.edu.au/course-terms/")},
 $S:0}
 A.In.prototype={
 gn_(){var s,r=this.f
