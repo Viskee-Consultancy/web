@@ -23919,7 +23919,7 @@ aFB(a){var s=null
 if(a==="AIBT")return A.mj("images/aibt_landscape.png",s,s,s)
 else if(a==="REACH")return A.mj("images/reach_landscape.png",s,s,s)
 else if(a==="AVTA")return A.mj("images/avta_landscape.png",s,s,s)
-else return A.mj("images/npa.png",s,s,s)},
+else return A.mj("images/npa_landscape.png",s,s,s)},
 O_(a){var s="BUSINESS AND TECHNOLOGY",r="COMMUNITY SERVICES",q="TECH SCIENCES",p="HOSPITALITY"
 switch(B.Jm.h(0,a)){case B.wj:return"AVIATION"
 case B.wk:return"ENGLISH"
