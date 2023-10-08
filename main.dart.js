@@ -23958,21 +23958,21 @@ if(a==="NPA")return B.C4
 return B.ni},
 aFF(a){var s="https://aibtglobal.edu.au/latest-videos/"
 if(a==="AIBT")return s
-if(a==="AIBT-I")return s
+if(a==="AIBT-I")return"https://aibti.edu.au/latest-videos/"
 if(a==="REACH")return"https://reachcollege.edu.au/latest-videos/"
 if(a==="AVTA")return"https://avta.edu.au/latest-videos/"
 if(a==="NPA")return"https://npa.edu.au/latest-videos/"
 return s},
 aFG(a){var s="https://aibtglobal.edu.au/courses/terms-for-courses/"
 if(a===B.cH)return s
-if(a===B.cI)return s
+if(a===B.cI)return"https://aibti.edu.au/course-terms/"
 if(a===B.cJ)return"https://reachcollege.edu.au/course-terms/"
 if(a===B.cK)return"https://avta.edu.au/course-terms/"
 if(a===B.dn)return"https://npa.edu.au/course-terms/"
 return s},
 aFD(a){var s="https://aibtglobal.edu.au/contact/"
 if(a===B.cH)return s
-if(a===B.cI)return s
+if(a===B.cI)return"https://aibti.edu.au/contact/"
 if(a===B.cJ)return"https://reachcollege.edu.au/contact/"
 if(a===B.cK)return"https://avta.edu.au/contact/"
 if(a===B.dn)return"https://npa.edu.au/contact/"
@@ -77484,33 +77484,33 @@ if(r===$){s=A.a([],t.WF)
 this.w!==$&&A.bl()
 this.w=s
 r=s}return r},
-L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=A.ob(a,!0),d=t.w,c=a.R(d).f
-d=a.R(d).f
-s=A.atI(f,f,new A.th("https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/background/background.png",1,f))
-r=A.bH(A.bd(f,f,f,f,f,f,f,f,f),3)
-q=A.bH(A.ax("Explore Over 90+ Courses and Promotions",f,f,f,A.aP(f,f,B.i,f,f,f,f,f,f,f,f,40,f,f,B.p,f,f,!0,f,f,f,f,f,f,f,f),B.x,f),6)
+L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d=A.ob(a,!0),c=t.w,b=a.R(c).f
+c=a.R(c).f
+s=A.atI(e,e,new A.th("https://github.com/Viskee-Consultancy/Viskee-Consultancy-Configuration/raw/master/background/background.png",1,e))
+r=A.bH(A.bd(e,e,e,e,e,e,e,e,e),3)
+q=A.bH(A.ax("Explore Over 90+ Courses and Promotions",e,e,e,A.aP(e,e,B.i,e,e,e,e,e,e,e,e,40,e,e,B.p,e,e,!0,e,e,e,e,e,e,e,e),B.x,e),6)
 p=A.anW(B.r)
-o=g.gmY()
-n=new A.Hi(new A.jS(B.d2,$.aM()),f)
+o=f.gmY()
+n=new A.Hi(new A.jS(B.d2,$.aM()),e)
 B.c.K(n.gmY(),o)
-p=A.bd(f,n,f,f,new A.ee(B.i,f,p,B.da,f,f,B.aZ),f,f,f,f)
-n=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-o=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-m=A.ix("images/aibt.png",f,f,f)
-m=A.bd(f,A.Kj(new A.ah(new A.T(10,10,10,10),m,f),new A.a4m(g,a),A.ze(f,f,B.i,f,f,f,f,f,f,f,f,f,new A.T(15,15,15,15),B.bY,f,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),f,f,f,f)),f,new A.aA(50,120,50,120),f,f,f,f,f)
-l=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-k=A.ix("images/aibt-i.png",f,f,f)
-k=A.bd(f,A.Kj(new A.ah(new A.T(10,10,10,10),k,f),new A.a4n(g,a),A.ze(f,f,B.i,f,f,f,f,f,f,f,f,f,new A.T(15,15,15,15),B.bY,f,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),f,f,f,f)),f,new A.aA(50,120,50,120),f,f,f,f,f)
-j=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-i=A.ix("images/reach.png",f,f,f)
-h=t.p
-i=A.l3(A.a([o,m,l,k,j,A.bd(f,A.Kj(new A.ah(new A.T(10,10,10,10),i,f),new A.a4o(g,a),A.ze(f,f,B.i,f,f,f,f,f,f,f,f,f,new A.T(15,15,15,15),B.bY,f,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),f,f,f,f)),f,new A.aA(50,120,50,120),f,f,f,f,f),A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)],h),B.B,B.eZ,B.F)
-j=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-o=A.ix("images/avta.png",f,f,f)
-o=A.bd(f,A.Kj(new A.ah(new A.T(10,10,10,10),o,f),new A.a4p(g,a),A.ze(f,f,B.i,f,f,f,f,f,f,f,f,f,new A.T(15,15,15,15),B.bY,f,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),f,f,f,f)),f,new A.aA(50,120,50,120),f,f,f,f,f)
-m=A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)
-l=A.ix("images/npa.png",f,f,f)
-return new A.i_(A.l4(e,A.hg(B.aE,A.a([new A.ml(s,new A.a4q(),d.a.a,c.a.b,B.mE,f),A.bd(f,A.dk(A.a([r,q,new A.eO(new A.aA(0,1/0,60,100),new A.ah(new A.T(20,20,20,20),p,f),f),n,A.bH(A.dk(A.a([i,new A.N5(f),A.l3(A.a([j,o,m,A.bd(f,A.Kj(new A.ah(new A.T(10,10,10,10),l,f),new A.a4r(g,a),A.ze(f,f,B.i,f,f,f,f,f,f,f,f,f,new A.T(15,15,15,15),B.bY,f,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),f,f,f,f)),f,new A.aA(50,120,50,120),f,f,f,f,f),A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)],h),B.B,B.eZ,B.F)],h),B.B,B.O,B.F,B.W),5),A.bH(A.bd(f,f,f,f,f,f,f,f,f),1)],h),B.B,B.O,B.F,B.W),f,f,f,f,f,f,f)],h),B.aR),!0),new A.a4s(a),f)}}
+p=A.bd(e,n,e,e,new A.ee(B.i,e,p,B.da,e,e,B.aZ),e,e,e,e)
+n=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+o=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+m=A.ix("images/aibt.png",e,e,e)
+m=A.bd(e,A.Kj(new A.ah(new A.T(10,10,10,10),m,e),new A.a4m(f,a),A.ze(e,e,B.i,e,e,e,e,e,e,e,e,e,new A.T(15,15,15,15),B.bY,e,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),e,e,e,e)),e,new A.aA(50,120,50,120),e,e,e,e,e)
+l=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+k=A.ix("images/reach.png",e,e,e)
+j=t.p
+k=A.l3(A.a([o,m,l,A.bd(e,A.Kj(new A.ah(new A.T(10,10,10,10),k,e),new A.a4n(f,a),A.ze(e,e,B.i,e,e,e,e,e,e,e,e,e,new A.T(15,15,15,15),B.bY,e,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),e,e,e,e)),e,new A.aA(50,120,50,120),e,e,e,e,e),A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)],j),B.B,B.eZ,B.F)
+l=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+o=A.ix("images/avta.png",e,e,e)
+o=A.bd(e,A.Kj(new A.ah(new A.T(10,10,10,10),o,e),new A.a4o(f,a),A.ze(e,e,B.i,e,e,e,e,e,e,e,e,e,new A.T(15,15,15,15),B.bY,e,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),e,e,e,e)),e,new A.aA(50,120,50,120),e,e,e,e,e)
+m=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+i=A.ix("images/npa.png",e,e,e)
+i=A.bd(e,A.Kj(new A.ah(new A.T(10,10,10,10),i,e),new A.a4p(f,a),A.ze(e,e,B.i,e,e,e,e,e,e,e,e,e,new A.T(15,15,15,15),B.bY,e,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),e,e,e,e)),e,new A.aA(50,120,50,120),e,e,e,e,e)
+h=A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)
+g=A.ix("images/aibt-i.png",e,e,e)
+return new A.i_(A.l4(d,A.hg(B.aE,A.a([new A.ml(s,new A.a4q(),c.a.a,b.a.b,B.mE,e),A.bd(e,A.dk(A.a([r,q,new A.eO(new A.aA(0,1/0,60,100),new A.ah(new A.T(20,20,20,20),p,e),e),n,A.bH(A.dk(A.a([k,new A.N5(e),A.l3(A.a([l,o,m,i,h,A.bd(e,A.Kj(new A.ah(new A.T(10,10,10,10),g,e),new A.a4r(f,a),A.ze(e,e,B.i,e,e,e,e,e,e,e,e,e,new A.T(15,15,15,15),B.bY,e,new A.cT(B.o),new A.bO(B.r,1,B.Z,B.M),e,e,e,e)),e,new A.aA(50,120,50,120),e,e,e,e,e),A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)],j),B.B,B.eZ,B.F)],j),B.B,B.O,B.F,B.W),5),A.bH(A.bd(e,e,e,e,e,e,e,e,e),1)],j),B.B,B.O,B.F,B.W),e,e,e,e,e,e,e)],j),B.aR),!0),new A.a4s(a),e)}}
 A.a4s.prototype={
 $0(){var s=0,r=A.X(t.y),q,p=this
 var $async$$0=A.S(function(a,b){if(a===1)return A.U(b,r)
@@ -77534,29 +77534,29 @@ s=A.e1(A.Mc(s),B.a9,t.z)
 A.bN(this.b).d3(s)},
 $S:0}
 A.a4n.prototype={
-$0(){$.bW.push("AIBT-I")
-var s=this.a.d
-s===$&&A.b()
-s=A.e1(A.Mc(s),B.a9,t.z)
-A.bN(this.b).d3(s)},
-$S:0}
-A.a4o.prototype={
 $0(){$.bW.push("REACH")
 var s=this.a.e
 s===$&&A.b()
 s=A.e1(A.Mc(s),B.a9,t.z)
 A.bN(this.b).d3(s)},
 $S:0}
-A.a4p.prototype={
+A.a4o.prototype={
 $0(){$.bW.push("AVTA")
 var s=this.a.f
 s===$&&A.b()
 s=A.e1(A.Mc(s),B.a9,t.z)
 A.bN(this.b).d3(s)},
 $S:0}
-A.a4r.prototype={
+A.a4p.prototype={
 $0(){$.bW.push("NPA")
 var s=this.a.r
+s===$&&A.b()
+s=A.e1(A.Mc(s),B.a9,t.z)
+A.bN(this.b).d3(s)},
+$S:0}
+A.a4r.prototype={
+$0(){$.bW.push("AIBT-I")
+var s=this.a.d
 s===$&&A.b()
 s=A.e1(A.Mc(s),B.a9,t.z)
 A.bN(this.b).d3(s)},
