@@ -23931,7 +23931,7 @@ if(a==="REACH")return A.ix("images/reach_landscape.png",r,r,r)
 if(a==="AVTA")return A.ix("images/avta_landscape.png",r,r,r)
 if(a==="NPA")return A.ix("images/npa_landscape.png",r,r,r)
 return A.ix(s,r,r,r)},
-O3(a){var s="BUSINESS AND TECHNOLOGY",r="COMMUNITY SERVICES",q="TECH SCIENCES",p="HOSPITALITY"
+O3(a){var s="BUSINESS AND TECHNOLOGY",r="COMMUNITY SERVICES",q="ENGINEERING TECHNOLOGY",p="HOSPITALITY"
 switch(B.Jp.h(0,a)){case B.wk:return"AVIATION"
 case B.wl:return"ENGLISH"
 case B.wo:return s
